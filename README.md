@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Tom
+
+I build web and mobile products
+
+### What I work with
+Elixir • Phoenix • LiveView • PostgreSQL • GraphQL  
+React • React Native • Next.js • Flutter • Dart • Tailwind CSS
+
+### How to reach me
+kopecx@outlook.com
 
 <!--
 **kopasz/kopasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
